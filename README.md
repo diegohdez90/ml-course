@@ -26,3 +26,9 @@ Repo for Python Data Science and Machine Learning Bootcamp
 ```shell
 ~$ jupyter notebook
 ```
+
+### 03-Python-for-Data-Analysis-Pandas
+
+```shell
+~$ pip install sqlalchemy lxml html5lib BeautifulSoup4 openpyxl
+```
