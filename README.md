@@ -18,7 +18,8 @@ Repo for Python Data Science and Machine Learning Bootcamp
 - Install dependencies
 
 ```shell
-~$ pip install jupyter notebook
+~$ pip install jupyter notebook jupyterlab_wakatime
+
 ```
 
 - Launch Jupyter
