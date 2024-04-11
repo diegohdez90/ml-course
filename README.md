@@ -33,3 +33,15 @@ Repo for Python Data Science and Machine Learning Bootcamp
 ```shell
 ~$ pip install sqlalchemy lxml html5lib BeautifulSoup4 openpyxl
 ```
+
+### 05-Data-Visualization-with-Matplotlib
+
+```shell
+~$ pip install matplotlib
+```
+
+### 06-Data-Visualization-with-Seaborn
+
+```shell
+~$ pip install seaborn scipy
+```
