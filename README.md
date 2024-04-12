@@ -45,3 +45,16 @@ Repo for Python Data Science and Machine Learning Bootcamp
 ```shell
 ~$ pip install seaborn scipy
 ```
+
+### 08-Plotly-and-Cufflinks
+
+```shell
+~$ pip install plotly cufflinks
+```
+
+### 09-Geographical-Plotting
+
+```shell
+~$ pip install chart-studio
+```
+
